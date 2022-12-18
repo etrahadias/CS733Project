@@ -8,7 +8,9 @@ Email: etrah001@odu.edu
 
 ## Overview
  
-Include high level overview
+Beekeeping is a visual activity, and it is important to be able to visually inspect frames to detect and assess certain diseases early. Certain diseases in honey bee hives have distinct visual symptoms that separate them from others.
+
+The purpose of this project is to make the early detection of brood diseases in honey bee hives accessible to visually impaired beekeepers by creating an image captioning model that generates descriptive captions of diseased brood frames. 
 
 ## Repository and Code Details
 
