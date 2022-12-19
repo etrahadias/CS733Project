@@ -12,14 +12,14 @@ Beekeeping is a visual activity, and it is important to be able to visually insp
 
 The purpose of this project is to make the early detection of brood diseases in honey bee hives accessible to visually impaired beekeepers by creating an image captioning model that generates descriptive captions of diseased brood frames. 
 
-I encourage you to check out [this](https://youtu.be/6rjT2sDkFY0) notebook first. This notebook puts together all of the models and includes text-to-speech to read the final caption if the image is unheatlhy!
+I encourage you to check out [this](https://colab.research.google.com/drive/1c9vUf9ad97ZSMe_oAMV2HyMCc908XAdG?usp=sharing) notebook first. This notebook puts together all of the models and includes text-to-speech to read the final caption if the image is unheatlhy!
 
 ## Repository and Code Details
 
 ### Model Training
 In the *model_training* folder, you will find the following Jupyter Notebooks that show how I trained the different models I used to create my final captioning prototype. Please be advised that if you run these files, you will also be training the models, and these files take a long time to run. 
 
-* Notebook that displays the whole system: CS733_Project_Bee_Image_Captioner_Prototype-Final-V2.ipynb
+* **Notebook that displays the whole system: CS733_Project_Bee_Image_Captioner_Prototype-Final-V2.ipynb**
 * Notebook to train the CNNs for image classification: CS733_Project_VisionEncoderDecoder_ImageCaptioning_Final.ipynb
 * Notebook to fine-tune masked language models: CS733_Project_FineTunedLanguageModelsDomainSpecific.ipynb
 * Notebook for image captioning fine-tuning: CS733_Project_VisionEncoderDecoder_ImageCaptioning_Final.ipynb
