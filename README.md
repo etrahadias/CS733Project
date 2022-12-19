@@ -38,7 +38,7 @@ With the files above, you should be able to run the final image captioning model
 
 ### Dataset
 
-The data set and respective captions for the unhealthy images are located on my Google Drive. For the submission of my project, the link to the folders with my data set are included for your convenience in my Canvas submission.
+The data set and respective captions for the unhealthy images are located on my Google Drive. For the submission of my project, the link to the folders with my data set are included for your convenience in my Canvas submission. The links with my image sources are also available in these folders, and my manually generated captions are available in each of the data set folders.
 
 ### Final Product
 
