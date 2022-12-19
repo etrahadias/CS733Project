@@ -24,12 +24,15 @@ In the *model_training* folder, you will find the following Jupyter Notebooks th
 
 ### Saved Models
 
-In this folder, there are a series of saved models so a user can use these models rather than train the models themselves.
+Due to size limitations, I was not able to upload to GitHub all of the saved versions of my fine-tuned models. The only model I was able to upload was the 'best_unhealthy_cnn_final_version.h5'. The other models listed below are available at the links below in my Google Drive.
 
-* CNN model healthy/unhealthy: 'cnn_healthy_vs_unhealthy_final.h5'
-* CNN type of disease: 'best_unhealthy_cnn_final_version.h5'
-* Fine-tuned SciBERT: 'scibert-bees-final'
-* Best image captioning model: 'vit-scibert-final'
+* CNN model healthy/unhealthy: 'cnn_healthy_vs_unhealthy_final.h5' (available [here](https://drive.google.com/file/d/1zGCAvq8trIL1VNmRNZuh_1d4ySoXTF29/view?usp=share_link))
+* CNN type of disease: 'best_unhealthy_cnn_final_version.h5' (available in GitHub)
+* Best image captioning model: 'vit-scibert-final' (available here](https://drive.google.com/drive/folders/1N6pz-oNprYrWAuJQ7363zaYVF2AM6HFe?usp=sharing))
+
+With the files above, you should be able to run the final image captioning model in the notebook named **CS733_Project_Bee_Image_Captioner_Prototype-Final-V2.ipynb**
+
+* Fine-tuned SciBERT: 'scibert-bees-final' (almost 5 GB in size, available upon request
 
 ### Dataset
 
