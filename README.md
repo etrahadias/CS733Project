@@ -21,7 +21,7 @@ In the *model_training* folder, you will find the following Jupyter Notebooks th
 * Notebook to train the CNNs for image classification: CS733_Project_VisionEncoderDecoder_ImageCaptioning_Final.ipynb
 * Notebook to fine-tune masked language models: CS733_Project_FineTunedLanguageModelsDomainSpecific.ipynb
 * Notebook for image captioning fine-tuning: CS733_Project_VisionEncoderDecoder_ImageCaptioning_Final.ipynb
-* Notebook for image captioning fine-tuning (SHORTER VERSIO): CS733_Project_VisionEncoderDecoder_ImageCaptioning_Final_SHORTER.ipynb
+* Notebook for image captioning fine-tuning (SHORTER VERSION): CS733_Project_VisionEncoderDecoder_ImageCaptioning_Final_SHORTER.ipynb
 
 
 ### Saved Models
@@ -50,6 +50,6 @@ There is also a Google Colab version of this notebook that includes text-to-spee
 
 ## Video Presentation
 
-The video presentation explaining my project and results can be found [here]().
+The video presentation explaining my project and results can be found [here](https://youtu.be/6rjT2sDkFY0).
 
 
