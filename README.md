@@ -12,6 +12,8 @@ Beekeeping is a visual activity, and it is important to be able to visually insp
 
 The purpose of this project is to make the early detection of brood diseases in honey bee hives accessible to visually impaired beekeepers by creating an image captioning model that generates descriptive captions of diseased brood frames. 
 
+I encourage you to check out [this](https://youtu.be/6rjT2sDkFY0) notebook first. This notebook puts together all of the models and includes text-to-speech to read the final caption if the image is unheatlhy!
+
 ## Repository and Code Details
 
 ### Model Training
