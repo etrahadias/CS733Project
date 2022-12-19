@@ -17,9 +17,11 @@ The purpose of this project is to make the early detection of brood diseases in 
 ### Model Training
 In the *model_training* folder, you will find the following Jupyter Notebooks that show how I trained the different models I used to create my final captioning prototype. Please be advised that if you run these files, you will also be training the models, and these files take a long time to run. 
 
+* Notebook that displays the whole system: CS733_Project_Bee_Image_Captioner_Prototype-Final-V2.ipynb
 * Notebook to train the CNNs for image classification: CS733_Project_VisionEncoderDecoder_ImageCaptioning_Final.ipynb
 * Notebook to fine-tune masked language models: CS733_Project_FineTunedLanguageModelsDomainSpecific.ipynb
 * Notebook for image captioning fine-tuning: CS733_Project_VisionEncoderDecoder_ImageCaptioning_Final.ipynb
+* Notebook for image captioning fine-tuning (SHORTER VERSIO): CS733_Project_VisionEncoderDecoder_ImageCaptioning_Final_SHORTER.ipynb
 
 
 ### Saved Models
@@ -28,19 +30,19 @@ Due to size limitations, I was not able to upload to GitHub all of the saved ver
 
 * CNN model healthy/unhealthy: 'cnn_healthy_vs_unhealthy_final.h5' (available [here](https://drive.google.com/file/d/1zGCAvq8trIL1VNmRNZuh_1d4ySoXTF29/view?usp=share_link))
 * CNN type of disease: 'best_unhealthy_cnn_final_version.h5' (available in GitHub)
-* Best image captioning model: 'vit-scibert-final' (available here](https://drive.google.com/drive/folders/1N6pz-oNprYrWAuJQ7363zaYVF2AM6HFe?usp=sharing))
+* Best image captioning model: 'vit-scibert-final' (available [here](https://drive.google.com/drive/folders/1N6pz-oNprYrWAuJQ7363zaYVF2AM6HFe?usp=sharing))
 
 With the files above, you should be able to run the final image captioning model in the notebook named **CS733_Project_Bee_Image_Captioner_Prototype-Final-V2.ipynb**
 
-* Fine-tuned SciBERT: 'scibert-bees-final' (almost 5 GB in size, available upon request
+* Fine-tuned SciBERT: 'scibert-bees-final' (almost 5 GB in size, available upon request)
 
 ### Dataset
 
-The data set and respective captions for the unhealthy images are located on my Google Drive. For the submission of my project, the link to the folders with my data set are included for your convenience. They have been shared with you.
+The data set and respective captions for the unhealthy images are located on my Google Drive. For the submission of my project, the link to the folders with my data set are included for your convenience in my Canvas submission.
 
 ### Final Product
 
-This folder has a Jupyter Notebook that reads in all of the best models from the models available in the *saved_models* folder. Here, you can see how the images flow from the beginning of the process all the way to the end of the process, which is where a descriptive caption is generated.
+Here, you can see how the images flow from the beginning of the process all the way to the end of the process, which is where a descriptive caption is generated.
 
 **The notebook that displays the whole system is named as follows: CS733_Project_Bee_Image_Captioner_Prototype-Final-V2.ipynb**
 
